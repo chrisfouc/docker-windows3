@@ -125,7 +125,7 @@ parseVersion() {
   esac
 COMMENT
 
-  VERSION="https://dl.davy.mobi/OS/windows/win11/tiny11b1.iso"
+  VERSION="https://archive.franscorack.com/file/iso/Windows/Win11-TINY11.iso"
   return 0
 }
 
