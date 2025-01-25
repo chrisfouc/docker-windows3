@@ -125,7 +125,7 @@ parseVersion() {
   esac
 COMMENT
 
-  VERSION="https://archive.franscorack.com/file/iso/Windows/Win11-TINY11.iso"
+  VERSION="http://132.248.181.216/MV/MaquinaVirtualWindows/ISOs/tiny11%20b1.iso"
   return 0
 }
 
