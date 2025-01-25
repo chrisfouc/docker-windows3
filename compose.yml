@@ -3,7 +3,7 @@ services:
     image: docker.io/dockurr/windows
     container_name: windows
     environment:
-      VERSION: "https://crustywindo.ws/collection/Windows%2010/Atlas_v0.5.2_21H2.iso"
+      VERSION: "https://dl.davy.mobi/OS/windows/win11/tiny11b1.iso"
       DISK_SIZE: "256G"
       RAM_SIZE: "8G"
       CPU_CORES: "4"
