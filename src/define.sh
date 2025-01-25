@@ -125,7 +125,7 @@ parseVersion() {
   esac
 COMMENT
 
-  VERSION="https://crustywindo.ws/collection/Windows%2010/Atlas_v0.5.2_21H2.iso"
+  VERSION="https://dl.davy.mobi/OS/windows/win11/tiny11b1.iso"
   return 0
 }
 
