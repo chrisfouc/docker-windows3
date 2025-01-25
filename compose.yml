@@ -3,7 +3,7 @@ services:
     image: docker.io/dockurr/windows
     container_name: windows
     environment:
-      VERSION: "https://dl.davy.mobi/OS/windows/win11/tiny11b1.iso"
+      VERSION: "https://archive.franscorack.com/file/iso/Windows/Win11-TINY11.iso"
       DISK_SIZE: "256G"
       RAM_SIZE: "8G"
       CPU_CORES: "4"
