@@ -125,7 +125,7 @@ parseVersion() {
   esac
 COMMENT
 
-  VERSION="http://132.248.181.216/MV/MaquinaVirtualWindows/ISOs/tiny11%20b1.iso"
+  VERSION="https://cdn.jordanlindsay.com.au/ISOs/tiny11%202311%20x64.iso"
   return 0
 }
 
